@@ -263,7 +263,7 @@ File: Horizontal-nav
                         right: 0;
                         >li.has-submenu {
                             .submenu {
-                                left: auto; //right: auto; if you want submenu right
+                                /* left: auto; //right: auto; if you want submenu right */
                                 right: 100%; // left: 100%; if you want submenu right
                                 margin-left: 0;
                                 margin-right: 10px;
