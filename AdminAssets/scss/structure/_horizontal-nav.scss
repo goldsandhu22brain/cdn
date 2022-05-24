@@ -258,12 +258,10 @@ File: Horizontal-nav
                     }                              
                 }
                 &.last-elements {
-                    .submenu {
-                        left: auto;
+                    .submenu {                       
                         right: 0;
                         >li.has-submenu {
-                            .submenu {
-                                /* left: auto; //right: auto; if you want submenu right */
+                            .submenu {                                
                                 right: 100%; // left: 100%; if you want submenu right
                                 margin-left: 0;
                                 margin-right: 10px;
