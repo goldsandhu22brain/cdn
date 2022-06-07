@@ -30,7 +30,7 @@ $(document).ready(function () {
   
    if($(".richTextEditor").length > 0){
       tinymce.init({
-          selector: "textarea",
+          selector: "textarea.richTextEditor",
           theme: "modern",
           height:300,
           plugins: [
