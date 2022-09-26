@@ -1,0 +1,278 @@
+{
+"TrendingCourses":
+[{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2022",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course 2022",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course",
+  "Stars": "5",
+  "StartCount": "851",
+  "Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "Price": "99"
+}],
+
+"OnSaleCourses":
+[{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "OriginalPrice": "25000","Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "OriginalPrice": "25000","Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "OriginalPrice": "25000","Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "OriginalPrice": "25000","Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "OriginalPrice": "25000","Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "OriginalPrice": "25000","Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "OriginalPrice": "25000","Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "OriginalPrice": "25000","Price": "99"
+},{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "The Complete javascript Course 2019",
+  "Stars": "4.2",
+  "StartCount": "12851",
+  "OriginalPrice": "25000","Price": "9999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "The Complete Full Stack Course",
+  "Stars": "4.8",
+  "StartCount": "14821",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/01.jpg",
+  "Title": "How to Code programatically using Python in Real world project scenarios",
+  "Stars": "4.9",
+  "StartCount": "164974",
+  "OriginalPrice": "25000","Price": "999"
+},
+{
+  "BannerImage": "https://hackerhac.com/Design/HackerHac/images/hacker_rocks/courses/02.jpg",
+  "Title": "Whats new in AI Learning Robot using Bigdata and its new course details",
+  "Stars": "5",
+  "StartCount": "851",
+  "OriginalPrice": "25000","Price": "99"
+}]
+
+}
