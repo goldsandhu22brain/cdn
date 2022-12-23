@@ -6,21 +6,21 @@
 /* ---------Fonts css start------------  */
 @font-face {
     font-family: 'MyriadProRegular';
-    src: url('https://cdn.brainmeasures.com/fonts/MyriadProRegular.eot');
-    src: url('https://cdn.brainmeasures.com/fonts/MyriadProRegular.eot') format('embedded-opentype'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProRegular.woff2') format('woff2'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProRegular.woff') format('woff'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProRegular.ttf') format('truetype'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
+    src: url('https://cdn.brainmeasures.com/Fonts/MyriadProRegular.eot');
+    src: url('https://cdn.brainmeasures.com/Fonts/MyriadProRegular.eot') format('embedded-opentype'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProRegular.woff2') format('woff2'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProRegular.woff') format('woff'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProRegular.ttf') format('truetype'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
 }
 @font-face {
     font-family: 'MyriadProBold';
-    src: url('https://cdn.brainmeasures.com/fonts/MyriadProBold.eot');
-    src: url('https://cdn.brainmeasures.com/fonts/MyriadProBold.eot') format('embedded-opentype'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProBold.woff2') format('woff2'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProBold.woff') format('woff'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProBold.ttf') format('truetype'),
-         url('https://cdn.brainmeasures.com/fonts/MyriadProBold.svg#MyriadProBold') format('svg');
+    src: url('https://cdn.brainmeasures.com/Fonts/MyriadProBold.eot');
+    src: url('https://cdn.brainmeasures.com/Fonts/MyriadProBold.eot') format('embedded-opentype'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProBold.woff2') format('woff2'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProBold.woff') format('woff'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProBold.ttf') format('truetype'),
+         url('https://cdn.brainmeasures.com/Fonts/MyriadProBold.svg#MyriadProBold') format('svg');
 }
 
 
